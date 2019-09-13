@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Bytestream-downloader</string>
+    <string name="download">Download</string>
+    <string name="convert">Convert</string>
 </resources>
